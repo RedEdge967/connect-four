@@ -9,6 +9,19 @@
 - CSS3
 - JavaScript
 
+## Running
+### Running `online`
+- open a browser window
+- and go to https://rededge.is-a.dev/connect-four
+
+### Running `offline`
+- go to the [releases](https://github.com/RedEdge967/connect-four/releases) of this repo
+- download the latest release
+- It will be a zip file
+- extract it
+- run `index.html` file in your web browser
+
+
 ### Gameplay
 
 
