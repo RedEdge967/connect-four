@@ -2,6 +2,10 @@
 - This is a recreation of classic Four game in html5, css3 and javascript.
 - View it [here](https://rededge.is-a.dev/connect-four).
 
+<p align="center">
+  <img src="Logo.png" height="40%" width="40%">
+</p>
+
 ### 🔗 Link: https://rededge.is-a.dev/connect-four/
 
 ### Made with
